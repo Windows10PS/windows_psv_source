@@ -4,7 +4,9 @@ This repo is for publish the last releases of own Shell/Homebrew called "Windows
 
 this Shell is avariable for:
  
- -PS Vita and Slim 
+ -PS Vita (ONLY FOR HENKAKU AND taiKENKAKU)
+ 
+ -PS Vita Slim (ONLY FOR HENKAKU AND taiKENKAKU)
   
 
 Changelog
